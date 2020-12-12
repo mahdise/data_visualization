@@ -14,97 +14,62 @@
     <session id="-592354200">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="1" />
+          <entry key="csv" value="2" />
           <entry key="ipynb" value="1" />
           <entry key="md" value="1" />
-          <entry key="png" value="19" />
-          <entry key="py" value="8" />
+          <entry key="png" value="20" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="Image" value="19" />
+          <entry key="Image" value="20" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="8" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
           <entry key="md" value="169" />
-          <entry key="py" value="753" />
+          <entry key="py" value="770" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="169" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="753" />
+          <entry key="Python" value="770" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/stack_plot.py">
+        <entry file="file://$PROJECT_DIR$/plot_with_plotly/multi_plot_scatter_bar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="223">
+              <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#1#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/box_plot_with_different_attributes.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/line_plot_average_value.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/line_plot_per_week.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/pie_chart.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/poperty.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/range.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/violin_with_different_attributes.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/combined.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/plot_with_plotly/president_county_candidate.csv">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -132,6 +97,8 @@
         <option value="$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/line_plot_at_average_value.py" />
         <option value="$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/box_violin_plot.py" />
         <option value="$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/stack_plot.py" />
+        <option value="$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/steam_plot.py" />
+        <option value="$PROJECT_DIR$/plot_with_plotly/multi_plot_scatter_bar.py" />
       </list>
     </option>
   </component>
@@ -146,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,19 +124,12 @@
             <path>
               <item name="data_visualization" type="b2602c69:ProjectViewProjectNode" />
               <item name="data_visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="data_visulazation_with_deffernt_plot_type" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data_visualization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data_visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="data_visulazation_with_deffernt_plot_type" type="462c0819:PsiDirectoryNode" />
-              <item name="plot_view" type="462c0819:PsiDirectoryNode" />
+              <item name="plot_with_plotly" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,6 +138,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mahdi Islam\Documents\github_\data_visualization\plot_with_plotly" />
       <recent name="C:\Users\Mahdi Islam\Documents\github_\data_visualization\data_visulazation_with_deffernt_plot_type\plot_view" />
       <recent name="C:\Users\Mahdi Islam\Documents\github_\data_visualization\data_visulazation_with_deffernt_plot_type" />
     </key>
@@ -193,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.steam_plot">
+  <component name="RunManager" selected="Python.multi_plot_scatter_bar">
     <configuration name="box_violin_plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_visualization" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,27 +177,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="line_plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_visualization" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/line_plot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="line_plot_at_average_value" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_visualization" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,6 +190,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/line_plot_at_average_value.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multi_plot_scatter_bar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_visualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot_with_plotly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_with_plotly/multi_plot_scatter_bar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,19 +262,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.line_plot" />
       <item itemvalue="Python.line_plot_at_average_value" />
       <item itemvalue="Python.box_violin_plot" />
       <item itemvalue="Python.stack_plot" />
       <item itemvalue="Python.steam_plot" />
+      <item itemvalue="Python.multi_plot_scatter_bar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multi_plot_scatter_bar" />
         <item itemvalue="Python.steam_plot" />
         <item itemvalue="Python.stack_plot" />
         <item itemvalue="Python.box_violin_plot" />
         <item itemvalue="Python.line_plot_at_average_value" />
-        <item itemvalue="Python.line_plot" />
       </list>
     </recent_temporary>
   </component>
@@ -333,18 +295,18 @@
     <frame x="1912" y="-8" width="1376" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20852017" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20852017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4523077" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37692308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.053846154" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23538461" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -376,9 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="53">
           <caret line="46" column="4" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="51" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -386,10 +345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="56" column="19" lean-forward="true" selection-end-line="69" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1607608541028" expanded="true" signature="1862:1865" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,9 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="62" lean-forward="true" selection-end-line="72" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -407,9 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="77" column="31" lean-forward="true" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,10 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="51" lean-forward="true" selection-end-line="61" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1607608767843" expanded="true" signature="1509:1525" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -441,18 +386,6 @@
     <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/box_plot_with_different_attributes.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/combined.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/line_plot_average_value.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/line_plot_per_week.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/pie_chart.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/poperty.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -462,15 +395,47 @@
     <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/stack_plot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/violin_with_different_attributes.png">
+    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/pie_chart.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/line_plot_per_week.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/line_plot_average_value.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/steam_plot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/steam_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/stack_plot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="242">
+          <caret line="63" lean-forward="true" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/violin_with_different_attributes.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_visulazation_with_deffernt_plot_type/plot_view/combined.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_with_plotly/president_county_candidate.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_with_plotly/multi_plot_scatter_bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
